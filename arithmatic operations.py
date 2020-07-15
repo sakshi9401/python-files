@@ -1,0 +1,7 @@
+print("enter two numbers")
+n1 = input()
+n2 = input()
+print("sum of two no, is",int(n1)+int(n2))
+print("multiplication of two no. is",int(n1)*int(n2))
+print("division of two no. is",int(n1)/int(n2))
+print("modulus of two no. is",int(n1)%int(n2))
